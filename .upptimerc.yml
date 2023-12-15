@@ -7,22 +7,26 @@ sites:
     url: https://app.skalin.io/
   - name: API
     url: http://api.skalin.io/v1/healthcheck
+    icon: https://app.skalin.io/android-icon-144x144.png
   - name: Tracker
     url: https://collect.skalin.io/healthcheck
     headers:
       - "Content-Type: application/json"
+    icon: https://app.skalin.io/android-icon-144x144.png
   - name: Webhooks
     method: POST
     url: https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1
     headers:
       - "Content-Type: application/json"
     body: '{ "eventId": "e07595f29f1928y5", "customerId": "customer1234", "event": { "name": "test", "score": 5 } }'
+    icon: https://app.skalin.io/android-icon-144x144.png
   - name: Website
     url: https://www.skalin.io/
   - name: Mail
     check: "tcp-ping"
     url: appmail.skalin.io
     port: 25
+    icon: https://app.skalin.io/android-icon-144x144.png
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
