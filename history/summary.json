@@ -41,19 +41,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/collect.skalin.io.ico",
     "slug": "tracker",
     "status": "up",
-    "uptime": "1.66%",
-    "uptimeDay": "1.66%",
-    "uptimeWeek": "1.66%",
-    "uptimeMonth": "1.66%",
-    "uptimeYear": "1.66%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 669,
     "timeDay": 669,
     "timeWeek": 669,
     "timeMonth": 669,
     "timeYear": 669,
-    "dailyMinutesDown": {
-      "2023-12-15": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webhooks",
