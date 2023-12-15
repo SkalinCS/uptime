@@ -8,10 +8,7 @@ sites:
   - name: API
     url: http://api.skalin.io/v1/healthcheck
   - name: TrackerJS
-    url: https://collect.skalin.io/hit?action=ui&identity=%7B%22email%22%3A%22test%40skalin.io%22%7D&client_id=abcdefghijklmnop&rec=1&url=https%3A%2F%2Fapp.skalin.io%2F%23%2Fcustomers&test=1&debug=1
-    expectedStatusCodes:
-      - 200
-      - 201
+    url: https://collect.skalin.io/hit?action=ui&identity=%7B%22email%22%3A%22test%40skalin.io%22%7D&client_id=abcdefghijklmnop&rec=1&test=1&debug=1
   - name: Webhooks
     method: POST
     url: https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1
