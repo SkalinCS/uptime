@@ -20,15 +20,18 @@ sites:
       - "Content-Type: application/json"
     body: '{ "eventId": "e07595f29f1928y5", "customerId": "customer1234", "event": { "name": "test", "score": 5 } }'
     icon: https://app.skalin.io/android-icon-144x144.png
-  - name: Website
-    url: https://www.skalin.io/
-  - name: Documentation
-    url: https://docs.skalin.io/
+  - name: Authentification
+    url: https://auth.skalin.io/
+    icon: https://app.skalin.io/android-icon-144x144.png
   - name: Mail
     check: "tcp-ping"
     url: appmail.skalin.io
     port: 25
     icon: https://app.skalin.io/android-icon-144x144.png
+  - name: Website
+    url: https://www.skalin.io/
+  - name: Documentation
+    url: https://docs.skalin.io/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
