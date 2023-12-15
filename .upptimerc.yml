@@ -19,6 +19,10 @@ sites:
     body: '{ "eventId": "e07595f29f1928y5", "customerId": "customer1234", "event": { "name": "test", "score": 5 } }'
   - name: Website
     url: https://www.skalin.io/
+  - name: Mail
+    check: "tcp-ping"
+    url: appmail.skalin.io
+    port: 25
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
