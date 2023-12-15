@@ -22,6 +22,8 @@ sites:
     icon: https://app.skalin.io/android-icon-144x144.png
   - name: Website
     url: https://www.skalin.io/
+  - name: Documentation
+    url: https://docs.skalin.io/
   - name: Mail
     check: "tcp-ping"
     url: appmail.skalin.io
