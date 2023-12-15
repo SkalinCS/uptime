@@ -1,7 +1,0 @@
-url: https://collect.skalin.io/hit?action=ui&identity=%7B%22email%22%3A%22test%40skalin.io%22%7D&client_id=abcdefghijklmnop&rec=1&r=243137&h=12&m=29&s=10&url=https%3A%2F%2Fapp.skalin.io%2F%23%2Fcustomers&_id=373ff1b714d65157&_sid=5b771e2fcf2a4651&_idts=1675928382&_idvc=37&_idn=undefined&_refts=0&_viewts=1702415814&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=1920x1080&v=1.0.1&test=1&debug=1
-status: down
-code: 400
-responseTime: 532
-lastUpdated: 2023-12-15T11:57:24.610Z
-startTime: 2023-12-15T11:45:30.799Z
-generator: Upptime <https://github.com/upptime/upptime>
