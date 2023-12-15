@@ -1,16 +1,20 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: SkalinCS # Your GitHub organization or username, where this repository lives
+repo: uptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: UI
+    url: https://app.skalin.io/
+  - name: API
+    url: http://api.skalin.io/v1/healthcheck
+  - name: Tracker
+    url: https://collect.skalin.io/hit?action=ui&identity=%7B%22email%22%3A%22test%40skalin.io%22%7D&client_id=abcdefghijklmnop&rec=1&r=243137&h=12&m=29&s=10&url=https%3A%2F%2Fapp.skalin.io%2F%23%2Fcustomers&_id=373ff1b714d65157&_sid=5b771e2fcf2a4651&_idts=1675928382&_idvc=37&_idn=undefined&_refts=0&_viewts=1702415814&pdf=1&qt=0&realp=0&wma=0&dir=0&fla=0&java=0&gears=0&ag=0&cookie=1&res=1920x1080&v=1.0.1&test=1
+  - name: Webhooks
+    method: POST
+    url: https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "eventId": "e07595f29f1928y5", "customerId": "customer1234", "event": { "name": "test", "score": 5 } }'
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
