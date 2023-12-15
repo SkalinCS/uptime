@@ -1,0 +1,7 @@
+url: https://collect.skalin.io/hit?action=ui&identity=%7B%22email%22%3A%22test%40skalin.io%22%7D&client_id=abcdefghijklmnop&rec=1&test=1&debug=1
+status: down
+code: 400
+responseTime: 755
+lastUpdated: 2023-12-15T12:40:09.311Z
+startTime: 2023-12-15T12:40:08.257Z
+generator: Upptime <https://github.com/upptime/upptime>
