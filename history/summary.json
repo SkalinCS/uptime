@@ -76,18 +76,20 @@
     "url": "https://auth.skalin.io/",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "authentification",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1369,
-    "timeDay": 1282,
-    "timeWeek": 1570,
-    "timeMonth": 1416,
-    "timeYear": 1369,
-    "dailyMinutesDown": {}
+    "time": 1360,
+    "timeDay": 1010,
+    "timeWeek": 1466,
+    "timeMonth": 1395,
+    "timeYear": 1360,
+    "dailyMinutesDown": {
+      "2024-02-25": 0
+    }
   },
   {
     "name": "Mail",
