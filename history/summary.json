@@ -40,18 +40,20 @@
     "url": "https://collect.skalin.io/healthcheck",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 711,
-    "timeDay": 782,
-    "timeWeek": 818,
-    "timeMonth": 769,
-    "timeYear": 711,
-    "dailyMinutesDown": {}
+    "time": 710,
+    "timeDay": 721,
+    "timeWeek": 798,
+    "timeMonth": 766,
+    "timeYear": 710,
+    "dailyMinutesDown": {
+      "2024-02-29": 0
+    }
   },
   {
     "name": "Webhooks",
