@@ -40,19 +40,19 @@
     "url": "https://collect.skalin.io/healthcheck",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "tracker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 710,
-    "timeDay": 721,
-    "timeWeek": 798,
-    "timeMonth": 766,
-    "timeYear": 710,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 709,
+    "timeDay": 685,
+    "timeWeek": 778,
+    "timeMonth": 761,
+    "timeYear": 709,
     "dailyMinutesDown": {
-      "2024-02-29": 0
+      "2024-02-29": 9
     }
   },
   {
