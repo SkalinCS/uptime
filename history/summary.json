@@ -58,18 +58,20 @@
     "url": "https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "webhooks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 530,
-    "timeWeek": 610,
-    "timeMonth": 657,
+    "timeDay": 606,
+    "timeWeek": 619,
+    "timeMonth": 658,
     "timeYear": 669,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-05": 0
+    }
   },
   {
     "name": "Authentification",
