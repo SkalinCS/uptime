@@ -4,19 +4,19 @@
     "url": "https://app.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 592,
-    "timeDay": 561,
-    "timeWeek": 654,
-    "timeMonth": 583,
+    "timeDay": 557,
+    "timeWeek": 642,
+    "timeMonth": 582,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2024-04-10": 0
+      "2024-04-10": 9
     }
   },
   {
