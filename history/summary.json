@@ -76,11 +76,11 @@
     "url": "https://auth.skalin.io/",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "authentification",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.99%",
     "time": 1381,
     "timeDay": 1326,
@@ -88,7 +88,7 @@
     "timeMonth": 1418,
     "timeYear": 1381,
     "dailyMinutesDown": {
-      "2024-04-13": 23
+      "2024-04-13": 15
     }
   },
   {
