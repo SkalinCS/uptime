@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 705,
-    "timeDay": 705,
+    "timeDay": 893,
     "timeWeek": 765,
     "timeMonth": 676,
     "timeYear": 705,
@@ -76,9 +76,9 @@
     "url": "https://auth.skalin.io/",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "authentification",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,7 +87,9 @@
     "timeWeek": 1657,
     "timeMonth": 1438,
     "timeYear": 1385,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-13": 0
+    }
   },
   {
     "name": "Mail",
@@ -137,7 +139,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 696,
-    "timeDay": 766,
+    "timeDay": 937,
     "timeWeek": 829,
     "timeMonth": 693,
     "timeYear": 696,
