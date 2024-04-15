@@ -4,18 +4,20 @@
     "url": "https://app.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 595,
-    "timeDay": 862,
-    "timeWeek": 669,
-    "timeMonth": 603,
-    "timeYear": 595,
-    "dailyMinutesDown": {}
+    "time": 596,
+    "timeDay": 802,
+    "timeWeek": 677,
+    "timeMonth": 607,
+    "timeYear": 596,
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "API",
@@ -24,18 +26,16 @@
     "slug": "api",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1170,
     "timeDay": 1483,
     "timeWeek": 1348,
     "timeMonth": 1188,
     "timeYear": 1170,
-    "dailyMinutesDown": {
-      "2024-04-15": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tracker",
@@ -135,17 +135,19 @@
     "url": "https://docs.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 699,
-    "timeDay": 930,
-    "timeWeek": 848,
-    "timeMonth": 703,
-    "timeYear": 699,
-    "dailyMinutesDown": {}
+    "time": 698,
+    "timeDay": 713,
+    "timeWeek": 809,
+    "timeMonth": 697,
+    "timeYear": 698,
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   }
 ]
