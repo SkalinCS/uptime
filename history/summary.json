@@ -4,19 +4,19 @@
     "url": "https://app.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 596,
-    "timeDay": 802,
-    "timeWeek": 677,
-    "timeMonth": 607,
+    "timeDay": 715,
+    "timeWeek": 664,
+    "timeMonth": 605,
     "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-15": 11
     }
   },
   {
@@ -135,19 +135,19 @@
     "url": "https://docs.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 698,
-    "timeDay": 713,
-    "timeWeek": 809,
-    "timeMonth": 697,
-    "timeYear": 698,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.22%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 696,
+    "timeDay": 647,
+    "timeWeek": 779,
+    "timeMonth": 692,
+    "timeYear": 696,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-15": 11
     }
   }
 ]
