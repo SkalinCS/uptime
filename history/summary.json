@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 715,
     "timeWeek": 664,
     "timeMonth": 605,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2024-04-15": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -78,9 +76,9 @@
     "url": "https://auth.skalin.io/",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "authentification",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "98.82%",
+    "uptimeDay": "98.80%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.98%",
@@ -136,18 +134,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 696,
     "timeDay": 647,
     "timeWeek": 779,
     "timeMonth": 692,
     "timeYear": 696,
-    "dailyMinutesDown": {
-      "2024-04-15": 11
-    }
+    "dailyMinutesDown": {}
   }
 ]
