@@ -58,19 +58,19 @@
     "url": "https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "webhooks",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.79%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 676,
-    "timeDay": 740,
-    "timeWeek": 749,
+    "timeDay": 722,
+    "timeWeek": 743,
     "timeMonth": 691,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2024-04-16": 0
+      "2024-04-16": 17
     }
   },
   {
