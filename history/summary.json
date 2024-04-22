@@ -6,18 +6,16 @@
     "slug": "ui",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 596,
     "timeDay": 589,
     "timeWeek": 605,
     "timeMonth": 597,
     "timeYear": 596,
-    "dailyMinutesDown": {
-      "2024-04-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "API",
@@ -44,28 +42,26 @@
     "slug": "tracker",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 710,
     "timeDay": 784,
     "timeWeek": 769,
     "timeMonth": 713,
     "timeYear": 710,
-    "dailyMinutesDown": {
-      "2024-04-22": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webhooks",
     "url": "https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "webhooks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 676,
@@ -74,6 +70,7 @@
     "timeMonth": 701,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2024-04-22": 1,
       "2024-04-16": 17
     }
   },
@@ -84,17 +81,16 @@
     "slug": "authentification",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.76%",
-    "uptimeMonth": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 1357,
-    "timeDay": 1228,
+    "timeDay": 1136,
     "timeWeek": 1290,
     "timeMonth": 1335,
     "timeYear": 1357,
     "dailyMinutesDown": {
-      "2024-04-22": 8,
       "2024-04-18": 15,
       "2024-04-15": 17,
       "2024-04-13": 15
@@ -105,9 +101,9 @@
     "url": "appmail.skalin.io",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -116,7 +112,9 @@
     "timeWeek": 112,
     "timeMonth": 112,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-22": 0
+    }
   },
   {
     "name": "Website",
@@ -141,11 +139,11 @@
     "url": "https://docs.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 694,
     "timeDay": 656,
@@ -153,7 +151,7 @@
     "timeMonth": 694,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2024-04-22": 8
+      "2024-04-22": 0
     }
   }
 ]
