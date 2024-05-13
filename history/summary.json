@@ -4,9 +4,9 @@
     "url": "https://app.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 615,
     "timeMonth": 613,
     "timeYear": 597,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-13": 0
+    }
   },
   {
     "name": "API",
@@ -82,12 +84,12 @@
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.80%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "99.96%",
     "time": 1357,
     "timeDay": 1307,
     "timeWeek": 1375,
-    "timeMonth": 1294,
+    "timeMonth": 1285,
     "timeYear": 1357,
     "dailyMinutesDown": {
       "2024-04-26": 23,
