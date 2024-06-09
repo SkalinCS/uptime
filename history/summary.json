@@ -40,19 +40,19 @@
     "url": "https://collect.skalin.io/healthcheck",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "tracker",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 718,
-    "timeDay": 1119,
-    "timeWeek": 906,
-    "timeMonth": 764,
-    "timeYear": 718,
+    "time": 719,
+    "timeDay": 1027,
+    "timeWeek": 910,
+    "timeMonth": 769,
+    "timeYear": 719,
     "dailyMinutesDown": {
-      "2024-06-09": 0
+      "2024-06-09": 8
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://docs.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 790,
-    "timeWeek": 814,
-    "timeMonth": 702,
-    "timeYear": 701,
+    "time": 703,
+    "timeDay": 872,
+    "timeWeek": 832,
+    "timeMonth": 710,
+    "timeYear": 703,
     "dailyMinutesDown": {
-      "2024-06-09": 0
+      "2024-06-09": 8
     }
   }
 ]
