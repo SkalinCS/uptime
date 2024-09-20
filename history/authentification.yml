@@ -1,7 +1,7 @@
 url: https://auth.skalin.io/
-status: up
-code: 200
-responseTime: 1095
-lastUpdated: 2024-09-19T23:09:54.731Z
+status: down
+code: 404
+responseTime: 642
+lastUpdated: 2024-09-20T14:57:55.241Z
 startTime: 2023-12-15T14:38:20.776Z
 generator: Upptime <https://github.com/upptime/upptime>
