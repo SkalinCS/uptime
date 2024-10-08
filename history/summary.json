@@ -4,19 +4,19 @@
     "url": "https://app.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.79%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
-    "time": 603,
-    "timeDay": 904,
-    "timeWeek": 670,
-    "timeMonth": 599,
-    "timeYear": 603,
+    "time": 605,
+    "timeDay": 1106,
+    "timeWeek": 750,
+    "timeMonth": 622,
+    "timeYear": 605,
     "dailyMinutesDown": {
-      "2024-10-08": 3
+      "2024-10-08": 16
     }
   },
   {
@@ -24,36 +24,40 @@
     "url": "http://api.skalin.io/v1/healthcheck",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 1206,
     "timeDay": 1842,
     "timeWeek": 1428,
     "timeMonth": 1214,
     "timeYear": 1206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 4
+    }
   },
   {
     "name": "Tracker",
     "url": "https://collect.skalin.io/healthcheck",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "tracker",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.77%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 741,
     "timeDay": 810,
     "timeWeek": 815,
     "timeMonth": 898,
     "timeYear": 741,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 3
+    }
   },
   {
     "name": "Webhooks",
@@ -62,9 +66,9 @@
     "slug": "webhooks",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.88%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 694,
     "timeDay": 653,
@@ -72,7 +76,7 @@
     "timeMonth": 692,
     "timeYear": 694,
     "dailyMinutesDown": {
-      "2024-10-08": 2,
+      "2024-10-08": 20,
       "2024-09-02": 17,
       "2024-04-16": 17
     }
@@ -84,9 +88,9 @@
     "slug": "authentification",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.97%",
     "time": 1360,
     "timeDay": 1760,
@@ -94,7 +98,7 @@
     "timeMonth": 1310,
     "timeYear": 1360,
     "dailyMinutesDown": {
-      "2024-10-08": 1,
+      "2024-10-08": 19,
       "2024-09-20": 21,
       "2024-09-02": 17,
       "2024-04-26": 23,
@@ -127,10 +131,10 @@
     "url": "https://www.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/www.skalin.io.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 121,
@@ -138,7 +142,9 @@
     "timeWeek": 87,
     "timeMonth": 83,
     "timeYear": 121,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 1
+    }
   },
   {
     "name": "Documentation",
@@ -146,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.74%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 711,
     "timeDay": 940,
     "timeWeek": 768,
     "timeMonth": 745,
     "timeYear": 711,
     "dailyMinutesDown": {
-      "2024-10-08": 0,
+      "2024-10-08": 18,
       "2024-09-02": 17
     }
   }
