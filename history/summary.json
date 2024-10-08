@@ -4,18 +4,20 @@
     "url": "https://app.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/app.skalin.io.ico",
     "slug": "ui",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 603,
     "timeDay": 904,
     "timeWeek": 670,
     "timeMonth": 599,
     "timeYear": 603,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-08": 3
+    }
   },
   {
     "name": "API",
@@ -58,10 +60,10 @@
     "url": "https://connector.skalin.io/webhook/aba337c4ga33baed?client_id=d0fd3591c03aff5c&test=1",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "webhooks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 694,
@@ -70,6 +72,7 @@
     "timeMonth": 692,
     "timeYear": 694,
     "dailyMinutesDown": {
+      "2024-10-08": 2,
       "2024-09-02": 17,
       "2024-04-16": 17
     }
@@ -79,10 +82,10 @@
     "url": "https://auth.skalin.io/",
     "icon": "https://app.skalin.io/android-icon-144x144.png",
     "slug": "authentification",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
     "time": 1360,
@@ -91,6 +94,7 @@
     "timeMonth": 1310,
     "timeYear": 1360,
     "dailyMinutesDown": {
+      "2024-10-08": 1,
       "2024-09-20": 21,
       "2024-09-02": 17,
       "2024-04-26": 23,
@@ -141,9 +145,9 @@
     "url": "https://docs.skalin.io/",
     "icon": "https://icons.duckduckgo.com/ip3/docs.skalin.io.ico",
     "slug": "documentation",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -153,6 +157,7 @@
     "timeMonth": 745,
     "timeYear": 711,
     "dailyMinutesDown": {
+      "2024-10-08": 0,
       "2024-09-02": 17
     }
   }
