@@ -1,7 +1,7 @@
 url: https://collect.skalin.io/healthcheck
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-08T19:14:42.420Z
+status: up
+code: 200
+responseTime: 1080
+lastUpdated: 2024-12-08T19:24:21.007Z
 startTime: 2023-12-15T13:11:45.429Z
 generator: Upptime <https://github.com/upptime/upptime>
